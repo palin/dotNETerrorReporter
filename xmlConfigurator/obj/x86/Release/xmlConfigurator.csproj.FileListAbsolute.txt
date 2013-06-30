@@ -1,0 +1,6 @@
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\xmlConfigurator\maciejpalinski\xmlConfigurator\bin\Release\xmlConfigurator.dll
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\xmlConfigurator\maciejpalinski\xmlConfigurator\bin\Release\xmlConfigurator.pdb
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\xmlConfigurator\maciejpalinski\xmlConfigurator\obj\x86\Release\ErrorReporter.Properties.Resources.resources
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\xmlConfigurator\maciejpalinski\xmlConfigurator\obj\x86\Release\xmlConfigurator.csproj.GenerateResource.Cache
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\xmlConfigurator\maciejpalinski\xmlConfigurator\obj\x86\Release\xmlConfigurator.dll
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\xmlConfigurator\maciejpalinski\xmlConfigurator\obj\x86\Release\xmlConfigurator.pdb

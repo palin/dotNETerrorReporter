@@ -1,0 +1,5 @@
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\ErrorReporter\ErrorReporter\bin\Release\ErrorReporter.dll
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\ErrorReporter\ErrorReporter\bin\Release\ErrorReporter.pdb
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\ErrorReporter\ErrorReporter\obj\Release\ErrorReporter.dll
+B:\SystemFiles\Moje dokumenty\Visual Studio 2010\Projects\ErrorReporter\ErrorReporter\obj\Release\ErrorReporter.pdb
+b:\systemfiles\moje dokumenty\visual studio 2010\Projects\ErrorReporter\ErrorReporter\obj\Release\ErrorReporter.csprojResolveAssemblyReference.cache
